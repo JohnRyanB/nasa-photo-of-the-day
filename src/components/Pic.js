@@ -42,7 +42,7 @@ const Title = styled.h1`
 
 const Image = styled.img`
 	border-radius: 10px;
-	margin: 2% 22%;
+	margin: 2% 21%;
 `;
 
 const DateName = styled.h2`
